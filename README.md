@@ -1,12 +1,12 @@
 # Unsupervised-Indoor-Depth
 
-This page provides code, model, and datasets in the paper:
+This page provides codes, models, and datasets in the paper:
 
  >Unsupervised Depth Learning in Challenging Indoor Video: Weak Rectification to Rescue
  >
  >[Jia-Wang Bian](https://jwbian.net/), Huangying Zhan, Naiyan Wang, Tat-Jun Chin, Chunhua Shen, Ian Reid
  >
- >[PDF]()
+ >[PDF](https://1drv.ms/b/s!AiV6XqkxJHE2k3sNnKVcyr3X5t_q?e=Q6rP1H)
  
  
  ## Depth and point cloud visulization on 7 Scenes
@@ -47,7 +47,7 @@ Download our pre-processed dataset from the following link:
 TRAIN_SET=/media/bjw/Disk/Dataset/rectified_nyu/
 python train.py $TRAIN_SET \
 --folder-type pair \
---disp-layers 18 \
+--resnet-layers 18 \
 --num-scales 1 \
 -b16 -s0.1 -c0.5 --epoch-size 0 --epochs 50 \
 --with-ssim 1 \
