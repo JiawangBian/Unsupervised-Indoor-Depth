@@ -19,13 +19,6 @@ This page provides codes, models, and datasets in the paper:
   2. We release an rectified NYUv2 dataset for unsupvised learning of single-view depth CNN.
 
 
- ## If you find our work useful in your research please consider citing our paper:
- 
-    @inproceedings{bian2020depth,
-      title={Unsupervised Depth Learning in Challenging Indoor Video: Weak Rectification to Rescue},
-      author={Bian, Jia-Wang and Zhan, Huangying and Wang, Naiyan and Chin Tat-Jun and Shen, Chunhua and Reid, Ian},
-      year={2020}
-    }
 
  ## Datasets
  
@@ -72,7 +65,7 @@ DATA_ROOT=/media/bjw/Disk/Dataset/nyu_test
 RESULTS_DIR=results/nyu_self/
 
 #  test 256*320 images
-python test_disp.py --disp-layers 18 --img-height 256 --img-width 320 \
+python test_disp.py --resnet-layers 18 --img-height 256 --img-width 320 \
 --pretrained-dispnet $DISPNET --dataset-dir $DATA_ROOT/color \
 --output-dir $RESULTS_DIR
 
