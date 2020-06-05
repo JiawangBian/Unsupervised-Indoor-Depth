@@ -92,10 +92,10 @@ python eval_depth.py \
 --gt_depth=$DATA_ROOT/depth.npy 
 ```
 
-## Results
+## Results on NYUv2
 
-|   Models   | Abs Rel | Log 10 | RMSE  | Acc.1 | Acc.2 | Acc.3 |
-|------------|---------|--------|-------|-------|-------|-------|
-| resnet18   | 0.147   | 0.062  | 0.536 | 0.804 | 0.950 | 0.986 |
+<img src="https://jwbian.net/wp-content/uploads/2020/06/nyu_results.png" width="600">
+
+
 
 
