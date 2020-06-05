@@ -94,11 +94,11 @@ python eval_depth.py \
 
 ## Results on NYUv2
 
-<img src="https://jwbian.net/wp-content/uploads/2020/06/nyu_results.png" width="600">
+<img src="https://jwbian.net/wp-content/uploads/2020/06/nyu_results.png" width="700">
 
 ## Visual comparison
 
-<img src="https://jwbian.net/wp-content/uploads/2020/06/vis_depth.png" width="600">
+<img src="https://jwbian.net/wp-content/uploads/2020/06/vis_depth.png" width="700">
 
 
 
