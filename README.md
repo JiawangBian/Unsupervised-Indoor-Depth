@@ -14,10 +14,26 @@ This page provides codes, models, and datasets in the paper:
 [![depth visualization](https://img.youtube.com/vi/A6OTJegbFzY/0.jpg)](https://www.youtube.com/watch?v=A6OTJegbFzY)
  
  
+ ## If you find our work useful in your research please consider citing our paper:
+ 
+    @inproceedings{bian2019depth,
+      title={Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video},
+      author={Bian, Jia-Wang and Li, Zhichao and Wang, Naiyan and Zhan, Huangying and Shen, Chunhua and Cheng, Ming-Ming and Reid, Ian},
+      booktitle= {Thirty-third Conference on Neural Information Processing Systems (NeurIPS)},
+      year={2019}
+    }
+    
+    @article{bian2020depth,
+      title={Unsupervised Depth Learning in Challenging Indoor Video: Weak Rectification to Rescue},
+      author={Bian, Jia-Wang and Zhan, Huangying and Wang, Naiyan and Chin, Tat-Jun and Shen, Chunhua and Reid, Ian},
+      journal={arXiv preprint arXiv:2006.02708},
+      year={2020}
+    }
+
+
  ## Core contributions
   1. We analyze the effects of complicated camera motions on unsupervised depth learning. 
   2. We release an rectified NYUv2 dataset for unsupvised learning of single-view depth CNN.
-
 
 
  ## Datasets
