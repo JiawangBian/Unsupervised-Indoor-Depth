@@ -6,7 +6,7 @@ This page provides codes, models, and datasets in the paper:
  >
  >[Jia-Wang Bian](https://jwbian.net/), Huangying Zhan, Naiyan Wang, Tat-Jun Chin, Chunhua Shen, Ian Reid
  >
- >[PDF](https://1drv.ms/b/s!AiV6XqkxJHE2k3sNnKVcyr3X5t_q?e=Q6rP1H)
+ >[ArXiv](https://arxiv.org/abs/2006.02708)
  
  
  ## Depth and point cloud visulization on 7 Scenes
