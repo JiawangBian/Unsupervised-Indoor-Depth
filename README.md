@@ -6,7 +6,7 @@ This page provides codes, models, and datasets in the paper:
  >
  >[Jia-Wang Bian](https://jwbian.net/), Huangying Zhan, Naiyan Wang, Tat-Jun Chin, Chunhua Shen, Ian Reid
  >
- >[ArXiv](https://arxiv.org/abs/2006.02708)
+ >[[ArXiv](https://arxiv.org/abs/2006.02708) | [Project](https://jwbian.net/unsupervised-indoor-depth)]
  
  
  ## Depth and point cloud visulization on 7 Scenes
