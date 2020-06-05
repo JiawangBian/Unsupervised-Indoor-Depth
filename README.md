@@ -96,6 +96,9 @@ python eval_depth.py \
 
 <img src="https://jwbian.net/wp-content/uploads/2020/06/nyu_results.png" width="600">
 
+## Visual comparison
+
+<img src="https://jwbian.net/wp-content/uploads/2020/06/vis_depth.png" width="600">
 
 
 
