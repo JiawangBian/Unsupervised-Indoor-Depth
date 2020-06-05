@@ -101,4 +101,13 @@ python eval_depth.py \
 <img src="https://jwbian.net/wp-content/uploads/2020/06/vis_depth.png" width="700">
 
 
+ ## Related projects
+ 
+ * [SC-SfMLearner](https://github.com/ClementPinard/SfmLearner-Pytorch) (NeurIPS 2019, scale-consistent depth learning framework.)
+
+ * [Depth-VO-Feat](https://github.com/Huangying-Zhan/Depth-VO-Feat) (CVPR 2018, trained on stereo videos for depth and visual odometry)
+ 
+ * [DF-VO](https://github.com/Huangying-Zhan/DF-VO) (ICRA 2020, use scale-consistent depth with optical flow for more accurate visual odometry)
+ 
+ 
 
