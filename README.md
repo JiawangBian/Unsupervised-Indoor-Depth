@@ -103,7 +103,7 @@ python eval_depth.py \
 
  ## Related projects
  
- * [SC-SfMLearner](https://github.com/ClementPinard/SfmLearner-Pytorch) (NeurIPS 2019, scale-consistent depth learning framework.)
+ * [SC-SfMLearner](https://github.com/JiawangBian/SC-SfMLearner-Release) (NeurIPS 2019, scale-consistent depth learning framework.)
 
  * [Depth-VO-Feat](https://github.com/Huangying-Zhan/Depth-VO-Feat) (CVPR 2018, trained on stereo videos for depth and visual odometry)
  
