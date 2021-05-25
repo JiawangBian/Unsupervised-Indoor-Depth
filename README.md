@@ -16,11 +16,11 @@ This page provides codes, models, and datasets in the paper:
  
  ## If you find our work useful in your research please consider citing our paper:
  
-    @inproceedings{bian2019depth,
-      title={Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video},
-      author={Bian, Jia-Wang and Li, Zhichao and Wang, Naiyan and Zhan, Huangying and Shen, Chunhua and Cheng, Ming-Ming and Reid, Ian},
-      booktitle= {Thirty-third Conference on Neural Information Processing Systems (NeurIPS)},
-      year={2019}
+    @article{bian2021ijcv, 
+      title={Unsupervised Scale-consistent Depth Learning from Video}, 
+      author={Bian, Jia-Wang and Zhan, Huangying and Wang, Naiyan and Li, Zhichao and Zhang, Le and Shen, Chunhua and Cheng, Ming-Ming and Reid, Ian}, 
+      journal= {International Journal of Computer Vision (IJCV)}, 
+      year={2021} 
     }
     
     @article{bian2020depth,
